@@ -1,0 +1,3 @@
+2026-10-15 02:48:11,122 INFO: AskQwen Start
+2026-10-15 02:48:26,842 INFO: Input recieved: Could I use AI to finish my Capstone project?
+2026-10-15 02:48:27,050 DEBUG: WARNING: No ONNX providers provided, defaulting to available providers: ['AzureExecutionProvider', 'CPUExecutionProvider']
