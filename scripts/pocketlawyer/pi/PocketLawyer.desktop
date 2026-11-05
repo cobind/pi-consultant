@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Pocket Lawyer
+Comment=Private policy assistant
+Exec=/mnt/nvme0n1/database/scripts/pocketlawyer/pi/pocket-lawyer.sh
+Icon=/mnt/nvme0n1/database/scripts/pocketlawyer/pi/pocket-lawyer.svg
+Terminal=false
+Categories=Office;Utility;

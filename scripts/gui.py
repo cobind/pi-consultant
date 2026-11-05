@@ -31,6 +31,7 @@ class TextEnterWrapper(QDockWidget):
 
         self.setFeatures(self.DockWidgetFeature.NoDockWidgetFeatures)
 
+
 textbox = TextEnter()
 output = TextOut()
 textboxWrapper = TextEnterWrapper(textbox)
