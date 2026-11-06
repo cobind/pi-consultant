@@ -1,0 +1,123 @@
+Responsible Administrator: VP Admin/Finance
+
+Responsible Office: Campus Card Operations Effective Date: 02/11/2020 Approved by: President Date of Revision: 08/28/2025
+
+Campus Camera Policy
+
+Policy Statement
+
+The Southeastern Louisiana University Police Department (UPD) has the authority to select, coordinate, operate, manage, and monitor all campus security surveillance systems pursuant to this policy. All departments using camera surveillance are responsible for implementing and complying with this policy in their respective operations. This policy applies to all university locations, even if the space is used by a third party. A university Surveillance Oversight Committee (SOC) is an operational committee established to oversee implementation of this policy. Proposed policy revisions will be reviewed by the SOC.
+
+Purpose of Policy
+
+Southeastern Louisiana University is committed to enhancing the quality of life of the campus community by incorporating the best practices of safety and security with technology. A critical component of a comprehensive security plan is the utilization of a security and safety camera system. The surveillance of public areas is intended to deter crime and assist in protecting the safety and property of the Southeastern Louisiana University community. This policy addresses the university’s safety and security needs while respecting and preserving individual privacy. To ensure the protection of individual privacy rights in accordance with the university’s core values and state and federal laws, this policy is adopted to formalize procedures for the installation of surveillance equipment and the handling, viewing, retention, dissemination, and destruction of surveillance records. The purpose of this policy is to regulate the use of camera systems used to observe and record public areas for the purposes of safety and security. The existence of this policy, however, does not imply or guarantee that cameras will be monitored in real time 24 hours a day, seven days a week.
+
+Applicability
+
+This policy applies to all Faculty, Staff, departments, and colleges of the university.
+
+Responsibilities
+
+UPD, in conjunction with the Office of Technology, Physical Plant Services and Auxiliary Services, is responsible for realization and assimilation of the policy including advising departments on appropriate applications of surveillance technologies and for providing technical assistance to departments preparing proposals for the purchase and installation of security camera systems. The SOC shall monitor developments in the law and in security industry practices and technology to ensure that camera surveillance is consistent with best practices and complies with all federal and state laws. The SOC will review proposals and recommendations for camera installations and examine specific camera locations to determine that the perimeter of view of fixed location cameras conforms to this policy.
+
+Campus Card Operations will coordinate annual updates to the policy and any revisions put forth by the SOC. This will include an annual inventory of all cameras.
+
+Responsibilities of Surveillance Oversight Committee (SOC)
+
+The SOC will be responsible for reviewing and approving or denying all proposals for security camera equipment recommended by the Director of University Police. The SOC shall be responsible for the review and approval of any requested exceptions to this policy. The SOC shall propose to the Vice President for Administration and Finance appropriate changes to this policy as needed.
+
+The SOC shall be comprised of eight members:
+
+• Director of University Police, Chair of the SOC
+
+• Chief Information Security Officer
+
+• Chief Information Officer
+
+• Assistant Vice President for Operations and Auxiliary Services
+
+• Director of Environmental Health and Safety
+
+• Dean of Students
+
+• Director of Facility Planning
+
+• Student Representative – SGA Chief Justice or Appointee
+
+• Faculty Representative – President of the Faculty Senate Responsibilities for Review of External Requests for Records Release UPD will review all external requests to release records obtained through security camera surveillance. UPD will seek consultation with appropriate administrative offices prior to the release of any records.
+
+Scope
+
+This policy applies to all personnel, departments, and colleges of Southeastern Louisiana University in the use of security cameras and their video monitoring and recording systems. Security cameras may be approved to be installed in locations where the security and safety of either property and/or persons would be enhanced. Cameras will be limited to uses that do not violate the reasonable expectation of privacy as defined by law. The cameras may be placed campus-wide, inside and outside buildings wherever deemed appropriate. Although the physical cameras may be identical, the functions of these cameras fall into three main categories:
+
+A. Property Protection: Where the main intent is to capture video and store it on a remote device that if property is reported stolen or damaged, the video may show the perpetrator. Examples: a parking lot, housing facility, dining facility, lab school, etc. B. Personal Safety: Where the main intent is to capture video and store it on a remote device so that if a person is assaulted, the video may show the perpetrator. Examples: a public walkway, or a parking lot. C. Extended Responsibility: Where the main intent is to have the live video stream in one area monitored by a staff member in close proximity. In this case, video may or may not be recorded. Example: a computer lab with multiple rooms and only one staff General Principles Information obtained from the cameras shall be used for safety and security purposes, for law, and policy enforcement, including, where appropriate, student judicial processes. Information must be handled with an appropriate level of security to protect against unauthorized access, alteration, or disclosure in accordance with university policy regarding information in digital form. All appropriate measures should be taken to protect an individual’s right to privacy and hold university information securely through its creation, storage, transmission, use, and deletion. All camera installations are subject to federal
+
+and state laws. Departments requesting security cameras will be required to follow the procedures outlined in this policy.
+
+Placement of Cameras
+
+The locations where cameras are installed may include restricted access sites (e.g., such as a departmental computer lab). However, cameras may not be placed in locations where a person has a reasonable expectation of privacy. Cameras will be located so that personal privacy is maximized. No audio shall be recorded except in areas where individuals are not routinely permitted. Requests To utilize audio surveillance that does not comply with this requirement will be evaluated on a case by case basis by the SOC. Camera positions and views of residential housing and all other campus locations shall be limited. The view must not violate the standard of a reasonable expectation of privacy. Unless the camera is being utilized for criminal investigations, monitoring by security cameras in the following locations is prohibited:
+
+• Student dormitory rooms in the residence halls
+
+• Restrooms/Bathrooms
+
+• Locker rooms
+
+• Offices
+
+• Classrooms not used as a lab The installation of “dummy” cameras that do not operate is prohibited. All video camera installations should be visible unless being used for criminal investigations or non-criminal investigations as authorized by the Director of University Police.
+
+Access and Monitoring
+
+All recording or monitoring of activities of individuals or groups by university security cameras will be conducted in a manner consistent with university policies, state and federal laws, and will not be based on the subjects’ personal characteristics, including age, color, disability, gender, national origin, race, religion, sexual orientation, or other protected characteristics. Furthermore, all recording or monitoring will be conducted in a professional, ethical, and legal manner. All personnel with access to university security cameras should be trained in the effective, legal, and ethical use of monitoring equipment.
+
+University security cameras are not monitored continuously under normal operating conditions but may be monitored for legitimate safety and security purposes that include, but are not limited to, the following: high-risk areas, restricted access areas/locations, in response to an alarm, special events, and specific investigations authorized by the Director of University Police. For security cameras intended for property protection and personal safety, access to live video or recorded video from cameras shall be limited to authorized personnel of the department responsible for administrative oversight of camera footage in question, UPD and other persons authorized by the Director of University Police. The copying, duplicating and/or retransmission of live or recorded video shall be limited to persons authorized by the Director of University Police. A record log will be maintained by UPD of all instances of access to, and use of, recorded material. Guidelines outlined are not intended to limit the authority of the Southeastern Louisiana University Police Department (UPD) in law enforcement activities.
+
+Appropriate Use and Confidentiality
+
+Personnel are prohibited from using or disseminating information acquired from university security cameras, except for purposes as outlined in this policy. All information and/or observations made in the use of security cameras are considered confidential and may only be used for official university and law enforcement purposes. All university personnel are expected to know and follow university policy as specified in the employee handbooks outlined in the
+
+Responsible Computing Policy.
+
+UPD will review any complaints regarding the utilization of surveillance camera systems and determine whether this policy is being followed. A formal appeal may be submitted to the SOC who will render a decision. An appeal of the SOC’s decision may be taken to the University President who is the final arbiter.
+
+Use of Cameras for Criminal Investigations
+
+All video footage may be used for criminal investigations. The use of mobile or hidden video equipment may be used in criminal investigations by the UPD. Hidden video equipment may also be used for non-criminal investigations of specific instances, which may be a significant risk to public safety, security and property as authorized by the Director of University Police.
+
+Exceptions
+
+This policy does not apply to cameras used for academic purposes. Cameras that are used for research would be governed by other policies involving human subjects and are, therefore, excluded from this policy. This policy does not address the use of Webcams for general use by the university. This policy also does not apply to the use of video equipment for the recording of public performances or events, interviews, or other use for broadcast or educational purposes, marketing and/or journalistic purposes. Examples of such excluded activities would include videotaping of athletic events, videotaping of concerts, plays, and lectures, or videotaped interviews of persons. Automated teller machines (ATMs), which may utilize cameras, are exempt from this policy.
+
+Procedures
+
+Departments requesting security cameras will be required to follow the procedures outlined in this policy. Any changes or additions to the previously approved equipment must follow the guidelines of this policy and approval by the SOC.
+
+Approval
+
+Individual colleges, departments, programs, or campus organizations interested in installing video surveillance equipment shall submit a written request (Request for Security Surveillance System Form) up through the administrative line to the vice president describing the proposed location of surveillance devices, justifying the proposed installation, identifying employees with access to the system, and identifying the funding source or sources for purchase and ongoing maintenance.
+
+• Requests approved up through the administrative line will be recommended to the Director of University Police. UPD, in coordination with Auxiliary Services, Physical Plant and the Office of Technology, will assess new camera locations and will conduct an evaluation of existing camera locations as necessary.
+
+• The Director of University Police will review all approved proposals. Upon completion of review of the proposal, the Director of University Police will forward the proposal to the SOC with a recommendation.
+
+• The SOC will be responsible for reviewing and approving or denying all proposals for security camera equipment recommended by the Director of University Police. The Purchasing Department will not accept, approve, or process any order for security camera systems without the approval of the SOC.
+
+Policy Acceptance/Training
+
+Camera control operators shall receive a copy of this policy and provide written acknowledgment that they have
+
+read and understand its contents. Training regarding the use of the camera system will be the responsibility of the party installing the equipment.
+
+Operation
+
+Video surveillance will be conducted in a manner consistent with all existing university policies in addition to this policy. Camera control operators shall monitor based on suspicious behavior, not individual characteristics. All operators and supervisors involved in video surveillance will perform their duties in accordance with this policy.
+
+Maintenance of all hardware and validation of functionality will be the responsibility of the department installing and utilizing the camera system.
+
+Storage and Retention of Recordings
+
+Recordings are subject to the established records retention schedules, the Litigation Hold Policy and Louisiana Public Records laws. No attempt shall be made to alter any part of any surveillance recording. Surveillance records shall not be stored by individual departments unless prior approval by the SOC. All approved systems should be accessible to more than one departmental employee to ensure the integrity of the data. These individuals should be noted as part of the approval process. All surveillance records shall be stored in a secure university location for the storage capacity of the equipment, no less than 10 days. UPD will maintain a log of all instances of access to or use of surveillance records. The log shall include the date and identification of the person or persons to whom access was granted. All inventory that is no longer in use must be disposed of through Property Control. The department, organization or individual in charge of inventory must complete the required forms and data sanitization with Client Services.
+
+[End of Policy]

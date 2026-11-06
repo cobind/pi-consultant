@@ -1,0 +1,992 @@
+[
+    {
+        "title": "Academic Advising",
+        "source": "https://southeastern.edu/resources/policies/policy_detail/academic_advising/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/academic_advising.pdf"
+    },
+    {
+        "title": "Academic Calendar",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/acad_calendar/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/academic_calendar.pdf"
+    },
+    {
+        "title": "Academic Freedom and Professional Responsibility",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/acad_freedom/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/acad_freedom.pdf"
+    },
+    {
+        "title": "Academic Integrity",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/acad_integrity/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/academic_integrity.pdf"
+    },
+    {
+        "title": "Accommodation of Individuals with Disabilities",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ada/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ada.pdf"
+    },
+    {
+        "title": "Accommodations for Students with Disabilities",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ada_student/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ada_student.pdf"
+    },
+    {
+        "title": "Accounts Receivable Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/accounts-receivable-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/accounts_receivable.pdf"
+    },
+    {
+        "title": "Alcohol Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/alcohol_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/alcohol_policy.pdf"
+    },
+    {
+        "title": "Administrative Positions",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/admin_positions/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/admin_positions.pdf"
+    },
+    {
+        "title": "Anti-Litter Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/antilitter/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/antilitter_policy.pdf"
+    },
+    {
+        "title": "Appeals \u2013 Change of Final Grade",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/appeal_grade/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/grade_change_appeal.pdf"
+    },
+    {
+        "title": "Appeals \u2013 Housing",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/appeal_housing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/housing_appeal.pdf"
+    },
+    {
+        "title": "Appeals \u2013 Parking/Traffic Citation",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/appeal_parking/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/traffic_appeal.pdf"
+    },
+    {
+        "title": "Appeals \u2013 Textbook Rental, Overdue Books",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/appeal_textbooks/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/textbook_appeals.pdf"
+    },
+    {
+        "title": "Appointments \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_appointments/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_appointments.pdf"
+    },
+    {
+        "title": "Appointments \u2013 Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/fac_appointments/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/appt_to_faculty.pdf"
+    },
+    {
+        "title": "Appointments \u2013 Student Worker",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sw_appointments/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/stu_worker_appointment.pdf"
+    },
+    {
+        "title": "Appointments \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_appointments/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclassified_appointment.pdf"
+    },
+    {
+        "title": "Artificial Intelligence Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/artificial-intelligence-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/artificial_intelligence.pdf"
+    },
+    {
+        "title": "Background Checks",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/background-checks/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/background_checks.pdf"
+    },
+    {
+        "title": "Basic Duties \u2013 Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/basic_duties_employees/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/basic_duties_employees.pdf"
+    },
+    {
+        "title": "Benefits Programs",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/benefits/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/benefits.pdf"
+    },
+    {
+        "title": "Bicycle Policy, University",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/bicycle_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/bicycle_policy.pdf"
+    },
+    {
+        "title": "Building Security",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/bldg_security/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/bldg_security.pdf"
+    },
+    {
+        "title": "Campus Camera Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/camera_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/camera_policy.pdf"
+    },
+    {
+        "title": "Campus Trespass/Ban Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ban_trespass/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ban_trespass.pdf"
+    },
+    {
+        "title": "Casual Visitors",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/visitors/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/visitors.pdf"
+    },
+    {
+        "title": "Cellular Phone Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/cell_phone/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/cell_phone.pdf"
+    },
+    {
+        "title": "Check Out Procedures",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/checkout/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/checkout.pdf"
+    },
+    {
+        "title": "Civil Service",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/civil_service/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/civil_service.pdf"
+    },
+    {
+        "title": "Class Attendance Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/attendance/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/attendance.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Discipline",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_discipline/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_discipline_policy.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Extraordinary Qualifications/Credentials Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_extra_credentials/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_extra_credentials.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Political Activity",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/political_classified/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/political_classified.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Position Classification",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/position_classification/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/position_classification.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Promotion Guidelines",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_promotion/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/promotion_classified.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Recruiting",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_recruiting/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_recruiting_policy.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Rewards and Recognition",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_rewards_recognition/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/classified_rewards_recognition.pdf"
+    },
+    {
+        "title": "Classified Employee \u2013 Special Entrance Rate Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_spcl_enter_rate/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_spcl_enter_rate.pdf"
+    },
+    {
+        "title": "Coasting Devices Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/coasting/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/coasting_policy.pdf"
+    },
+    {
+        "title": "Code of Ethics for Public Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/code_of_ethics/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/code_of_ethics.pdf"
+    },
+    {
+        "title": "Commencement Regalia Adornment Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/commencement-regalia-adornment-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/commencement_regalia.pdf"
+    },
+    {
+        "title": "Compensation for Additional Duties, Graduate/Resident Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ga_addl_duties/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ga_addl_duties.pdf"
+    },
+    {
+        "title": "Computer Policy (Responsible Computing",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/responsible_computing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/responsible_computing.pdf"
+    },
+    {
+        "title": "Confidentiality of Information",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/confidentiality/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/confidentiality.pdf"
+    },
+    {
+        "title": "Consensual Relationships",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/consensual_relations/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/consensual_relations.pdf"
+    },
+    {
+        "title": "Convocations, Commencements, Faculty Meetings, Attendance at",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/convocation_attend/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/convocation_attend.pdf"
+    },
+    {
+        "title": "Copyright Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/copyright/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/copyright_policy.pdf"
+    },
+    {
+        "title": "Course Work by Employees of the University",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/coursework/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/course_work.pdf"
+    },
+    {
+        "title": "Credit Hour Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/credit_hour/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/credit_hour_policy.pdf"
+    },
+    {
+        "title": "Crisis Leave Program",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/crisis_leave/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/crisis_leave.pdf"
+    },
+    {
+        "title": "Curricula, Submission of Changes in",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/curricula_changes/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/changes_curricula.pdf"
+    },
+    {
+        "title": "Data Sanitization Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/data_sanitization/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/data_sanitization.pdf"
+    },
+    {
+        "title": "Departmental Revenue Collection Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/revenue_collection/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/revenue_collection.pdf"
+    },
+    {
+        "title": "Discrimination and Harassment Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/harass_discriminate/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/harassment.pdf"
+    },
+    {
+        "title": "Distance Education Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/distance_ed/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/distance_education.pdf"
+    },
+    {
+        "title": "Domestic Violence in the Workplace Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/domestic_violence/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/domestic_violence.pdf"
+    },
+    {
+        "title": "Drug and Alcohol Prevention Policy for Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/drug_alcohol_prevention/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/drug_abuse_prevention.pdf"
+    },
+    {
+        "title": "Drug/Alcohol Testing",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/drug_alcohol_testing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/drug_testing.pdf"
+    },
+    {
+        "title": "Drug-Free Workplace Policy, Southeastern Louisiana University\u2019s",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/slu_drugfree_workplace/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/slu_drugfree_workplace.pdf"
+    },
+    {
+        "title": "Dual Employment Law, State of Louisiana",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/dual_employment/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/dual_employment.pdf"
+    },
+    {
+        "title": "Email Account (and Network ID Deprovisioning",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/network_id_email_account_deprovisioning/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/network_id_email_account_deprovisioning.pdf"
+    },
+    {
+        "title": "(Southeastern Emergency Assistance Fund Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/southeastern-emergency-assistance-fund-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/emergency_assistance_fund.pdf"
+    },
+    {
+        "title": "Emergency Response Quick Reference Guide",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/emergency_procedures/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/emergency_procedures.pdf"
+    },
+    {
+        "title": "Emeritus Titles",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/emeritus/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/emeritus.pdf"
+    },
+    {
+        "title": "Employee Identification Cards",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/employee_id/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/id_cards.pdf"
+    },
+    {
+        "title": "Employee Safety Meetings",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/safety/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/safety_meetings.pdf"
+    },
+    {
+        "title": "English Language Fluency",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/english_fluency/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/english_fluency.pdf"
+    },
+    {
+        "title": "Equal Employment Opportunity / Affirmative Action Plan",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/eeo_aap/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/eeo_aap.pdf"
+    },
+    {
+        "title": "Equal Opportunity in Education",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/eeo_edu/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/equal_oppt_edu.pdf"
+    },
+    {
+        "title": "Evaluation of Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_eval/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_eval.pdf"
+    },
+    {
+        "title": "Evaluation of University Administrators (Policy and Procedures for the",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/pres_vp_eval/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/pres_vp_eval.pdf"
+    },
+    {
+        "title": "Facilities Use/Rental Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/facilities_rental/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/facilities_rental.pdf"
+    },
+    {
+        "title": "Faculty Complaints, Procedure for Resolving",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_complaints/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/procedure_resolving_facl_compl.pdf"
+    },
+    {
+        "title": "Faculty Involvement  in Outcomes Assessment Activities",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/outcomes_assessment/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/outcome_assessment.pdf"
+    },
+    {
+        "title": "Faculty Workload Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_workload/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_workload_policy.pdf"
+    },
+    {
+        "title": "Family Educational Rights and Privacy Act (FERPA",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ferpa/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ferpa.pdf"
+    },
+    {
+        "title": "Fire, Extended Coverage, and Theft Insurance",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/fire_theft_insurance/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/fire_theft_insur.pdf"
+    },
+    {
+        "title": "Flexible Schedule Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/flex_schedule/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/flex_work_schedule.pdf"
+    },
+    {
+        "title": "Food Safety",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/food-safety-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/food_safety.pdf"
+    },
+    {
+        "title": "Fraud Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/fraud/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/fraud_policy.pdf"
+    },
+    {
+        "title": "Fuel Card Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/fuel_card_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/fuel_card_policy.pdf"
+    },
+    {
+        "title": "Fundraising with University Advancement, Coordination of",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/fundraising/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/fund_raising.pdf"
+    },
+    {
+        "title": "Governing Boards",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/governing_boards/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/governing_boards.pdf"
+    },
+    {
+        "title": "Graduate Assistantships",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/grad_assistantships/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/grad_assistantships.pdf"
+    },
+    {
+        "title": "Graduate Faculty Status",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/grad_faculty/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/graduate_faculty.pdf"
+    },
+    {
+        "title": "Graphic Standards and Use of University Name",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/graphic_standards/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/graphic_standards.pdf"
+    },
+    {
+        "title": "Grievance Policy \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_grievance/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/classified_grievance.pdf"
+    },
+    {
+        "title": "Grievance Policy \u2013 Student Worker",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/stu_grievance/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/stu_grievance.pdf"
+    },
+    {
+        "title": "Grievance Policy \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_grievance/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ga_unclassified_grievance.pdf"
+    },
+    {
+        "title": "Hazing Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/hazing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/hazing.pdf"
+    },
+    {
+        "title": "Health Center",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/health_center/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/health_center.pdf"
+    },
+    {
+        "title": "Hiring Temporary, Intermittent, and Student Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/hiring_temp/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/hiring_interm_students.pdf"
+    },
+    {
+        "title": "Hiring Without Regard",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/hiring_wo_regard/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/hiring_without_regard.pdf"
+    },
+    {
+        "title": "Infectious Disease Testing Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/infectious_disease_testing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/infectious_disease_testing_policy.pdf"
+    },
+    {
+        "title": "Information Security Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/information-security-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/information_security.pdf"
+    },
+    {
+        "title": "Institutional Effectiveness Guidelines",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ie_guidelines/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ie_guidelines.pdf"
+    },
+    {
+        "title": "Institutional Purpose: Role, Scope and Mission",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/institutional_purpose/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/instit_purpose.pdf"
+    },
+    {
+        "title": "Intellectual Property Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/intellectual_property/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/intellectual_property.pdf"
+    },
+    {
+        "title": "Investigations",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/investigations/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/investigat_misconduct.pdf"
+    },
+    {
+        "title": "Job Postings",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/job_postings/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/job_postings.pdf"
+    },
+    {
+        "title": "Key Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/key_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/office_keys.pdf"
+    },
+    {
+        "title": "Leave Policies \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_leave/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/class_leave_policies.pdf"
+    },
+    {
+        "title": "Leave Policies \u2013 Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_leave/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_leave_policies.pdf"
+    },
+    {
+        "title": "Leave Policies \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_leave/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_leave_policies.pdf"
+    },
+    {
+        "title": "Litigation Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/litigation/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/litigation.pdf"
+    },
+    {
+        "title": "Lost and Found Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/lost_and_found/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/lost_and_found_policy.pdf"
+    },
+    {
+        "title": "Loyalty Oath",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/loyalty_oath/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/loyalty_oath.pdf"
+    },
+    {
+        "title": "Mandatory Training",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/mandatory_training/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/mandatory_training.pdf"
+    },
+    {
+        "title": "Media Inquiries, Advertising and Public Records Requests Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/media_inquiries/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/media_inquiries.pdf"
+    },
+    {
+        "title": "Minors on Campus",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/minors-on-campus/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/minors_on_campus.pdf"
+    },
+    {
+        "title": "Misconduct in Research",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/misconduct_research/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/research-misconduct.pdf"
+    },
+    {
+        "title": "Movable Property Policy (Accountability for",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/movable_property/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/movable_property.pdf"
+    },
+    {
+        "title": "Naming Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/naming-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/naming_policy.pdf"
+    },
+    {
+        "title": "Nepotism Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/nepotism/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/nepotism.pdf"
+    },
+    {
+        "title": "Network ID and Email Account Deprovisioning",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/network_id_email_account_deprovisioning/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/network_id_email_account_deprovisioning.pdf"
+    },
+    {
+        "title": "Off-Campus Visitation",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/field-experience-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/off_campus_visitation.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_office_hours/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/officehrs_classified.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_office_hrs/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_office_hours.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Graduate Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ga_officehours/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ga_officehours.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Resident Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ra_officehours/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ra_officehours.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Student Worker",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sw_officehours/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/stu_worker_officehours.pdf"
+    },
+    {
+        "title": "Office Hours \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_officehours/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_officehours.pdf"
+    },
+    {
+        "title": "Optional Pay Adjustment Policy \u2013 Classified Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/optional_pay_class/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/optional_pay.pdf"
+    },
+    {
+        "title": "Orientation, All Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/orientation/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/orientation.pdf"
+    },
+    {
+        "title": "Other Services Available to Faculty and Staff",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/other_services/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/other_services.pdf"
+    },
+    {
+        "title": "Outside Employment / Compensation Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/outside_employment/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/outside_empl.pdf"
+    },
+    {
+        "title": "Parking Operations, Rules and Regulations",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/parking-rules/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/traffic_parking_regs.pdf"
+    },
+    {
+        "title": "Parking/Traffic Citation Appeal",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/appeal_parking/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/traffic_appeal.pdf"
+    },
+    {
+        "title": "Performance Evaluation \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_eval/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/classified_empl_evaluation.pdf"
+    },
+    {
+        "title": "Performance Evaluation \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_eval/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_eval.pdf"
+    },
+    {
+        "title": "Personnel File",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/personnel_file/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/personnel_file.pdf"
+    },
+    {
+        "title": "Pets on Campus",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/pets/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/pets.pdf"
+    },
+    {
+        "title": "Policy for Developing and Maintaining University Policies",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/policy_on_policies/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/policy_on_policies.pdf"
+    },
+    {
+        "title": "Political Activity Guidelines",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/political_activities_guidelines/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/political_activities_guidelines.pdf"
+    },
+    {
+        "title": "Political Activity: Seeking and Holding Public Office",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_political_activity/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclassified_political_activity.pdf"
+    },
+    {
+        "title": "Power-Based Violence & Sexual Misconduct Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sexual_misconduct/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/powerbased-sexual-misconduct.pdf"
+    },
+    {
+        "title": "Preferred Name Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/preferred_name/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/preferred_name.pdf"
+    },
+    {
+        "title": "President\u2019s Awards for Excellence",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/pres_awards/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/pres_awards.pdf"
+    },
+    {
+        "title": "Procedures in the Event of an Emergency",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/emergency_procedures/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/emergency_procedures.pdf"
+    },
+    {
+        "title": "Public Speech, Assembly and Demonstrations Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/public_speech/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/public_speech_assemby.pdf"
+    },
+    {
+        "title": "Reasonable Accommodations in University Housing Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/reasonable-accommodations-in-university-housing-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/reasonable_accommodations.pdf"
+    },
+    {
+        "title": "Records Management Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/records_management_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/records_management_policy.pdf"
+    },
+    {
+        "title": "Remote Work (formerly Telecomuting Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/remote_work/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/remote_work.pdf"
+    },
+    {
+        "title": "Representation of Southeastern to Accrediting Agencies and Notification of Accreditation Status Changes",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/rep_to_accrediting_agency/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/rep_to_accrediting_agency.pdf"
+    },
+    {
+        "title": "Resident Assistantships",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/resident_assistantships/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/resident_assistantships.pdf"
+    },
+    {
+        "title": "Responsible Computing",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/responsible_computing/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/responsible_computing.pdf"
+    },
+    {
+        "title": "Retaliation Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/retaliation_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/retaliation.pdf"
+    },
+    {
+        "title": "Rewards and Recognition Program -- Unclassified Staff",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/rewards-and-recognition-program/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_rewards_recognition.pdf"
+    },
+    {
+        "title": "Safe Driver Program",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/safe_driver/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/safe_driver.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Classified Employees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/salary_classified.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_salary_schedule.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Graduate Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ga_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ga_salary.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Resident Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ra_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ra_salary.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Student Worker",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sw_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/stu_worker_salary.pdf"
+    },
+    {
+        "title": "Salary / Pay Administration \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_salary/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_salary.pdf"
+    },
+    {
+        "title": "Scheduling Events on Campus",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/scheduling_events/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/scheduling_events.pdf"
+    },
+    {
+        "title": "Selection of Department Heads",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/selection_of_dept_heads/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/selection_of_dept_heads.pdf"
+    },
+    {
+        "title": "Selling or Soliciting on Campus",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/soliciting_on_campus/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/soliciting.pdf"
+    },
+    {
+        "title": "Sexual Misconduct Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sexual_misconduct/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/powerbased-sexual-misconduct.pdf"
+    },
+    {
+        "title": "Sign Policy and Approval Form",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sign_poster_flyer/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/sign_policy_approval_form.pdf"
+    },
+    {
+        "title": "Social Media Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/social_media/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/social_media_policy.pdf"
+    },
+    {
+        "title": "Space Management Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/space_management/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/space_mgmt.pdf"
+    },
+    {
+        "title": "Student Behavior in the Classroom",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/student_behavior/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/student_behavior.pdf"
+    },
+    {
+        "title": "Student Complaint Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/student_complaint/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/student_complaint.pdf"
+    },
+    {
+        "title": "Student Opinion of Teaching (SOT Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sot/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/sot.pdf"
+    },
+    {
+        "title": "Substantive Change Reporting Requirements Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/substantive-change-reporting-requirements-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/substantive_change_reporting.pdf"
+    },
+    {
+        "title": "Summer Teaching Assignments and Compensation",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/summer_teaching/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/summer_teaching.pdf"
+    },
+    {
+        "title": "Supervisor Training Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/supervisor_training/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/supervisor_training.pdf"
+    },
+    {
+        "title": "Supplemental Compensation Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/suppl_comp/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/suppl_comp.pdf"
+    },
+    {
+        "title": "Tailgating Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/tailgating-policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/tailgating.pdf"
+    },
+    {
+        "title": "Teaching Loads",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/teaching_loads/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/teaching_loads.pdf"
+    },
+    {
+        "title": "Telephones and Fax Machines",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/telephones/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/telephone.pdf"
+    },
+    {
+        "title": "Tenure and Promotion Guidelines",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/tenure_promotion_2020/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/tenure_and_promotion.pdf"
+    },
+    {
+        "title": "Termination and Notification \u2013 Classified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/class_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/classified_termination.pdf"
+    },
+    {
+        "title": "Termination and Non-Reappointment of Faculty",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/faculty_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/faculty_termination.pdf"
+    },
+    {
+        "title": "Termination and Notification \u2013 Graduate Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ga_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ga_termination_notification.pdf"
+    },
+    {
+        "title": "Termination and Notification \u2013 Resident Assistant",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/ra_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/ra_termination_notification.pdf"
+    },
+    {
+        "title": "Termination and Notification \u2013 Student Worker",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/sw_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/stu_worker_termination.pdf"
+    },
+    {
+        "title": "Termination and Notification \u2013 Unclassified Employee",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unclass_termination/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unclass_termination.pdf"
+    },
+    {
+        "title": "Termination/Severe Sanction of Tenured Faculty for Cause",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/termination_tenured_faculty/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/termination_tenured_faculty.pdf"
+    },
+    {
+        "title": "Textbook/Course Materials Adoption",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/textbook_selection/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/textbk_selection.pdf"
+    },
+    {
+        "title": "Title IX Grievance Procedures",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/title_ix_grievance_procedure/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/title_ix_grievance_procedure.pdf"
+    },
+    {
+        "title": "Tobacco Free Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/tobacco_free/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/tobacco_free.pdf"
+    },
+    {
+        "title": "Transitional Duty Policy, Return to",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/transitional_duty/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/transitional_duty.pdf"
+    },
+    {
+        "title": "Travel Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/travel/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/travel_policy.pdf"
+    },
+    {
+        "title": "Tuition and Fee Waiver Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/tuition_fee_waiver/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/tuition_fee_waiver.pdf"
+    },
+    {
+        "title": "Tutoring for Compensation",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/tutoring/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/tutoring.pdf"
+    },
+    {
+        "title": "Uniformed Service Mobilization Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/uniformed_service_mobilization/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/uniformed_service_mobilization.pdf"
+    },
+    {
+        "title": "Union Organization",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/union/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/union.pdf"
+    },
+    {
+        "title": "University Councils and Committees",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/committees/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/univ_committees.pdf"
+    },
+    {
+        "title": "University Strategic Plan",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/strategic_plan/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/strategic_plan.pdf"
+    },
+    {
+        "title": "Unmanned Aerial System Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/unmanned_aerial_sys_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/unmanned_aerial_sys_policy.pdf"
+    },
+    {
+        "title": "Use of Linus A. Sims Memorial Library by Faculty and Staff",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/library_use/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/library_use.pdf"
+    },
+    {
+        "title": "Use of University Resources",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/university_resources/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/use_univ_materials.pdf"
+    },
+    {
+        "title": "Violence in the Workplace Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/violence_workplace/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/violence_workplace.pdf"
+    },
+    {
+        "title": "Website Policy",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/web_policy/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/web_policy.pdf"
+    },
+    {
+        "title": "Worker\u2019s Compensation",
+        "source": "https://www.southeastern.edu/resources/policies/policy_detail/workers_comp/",
+        "pdf": "https://www.southeastern.edu/wp-content/uploads/policies/workers_comp.pdf"
+    }
+]

@@ -1,0 +1,137 @@
+Responsible Administrator: VP Admin/Finance
+
+Responsible Office: Controller Effective Date: 05/14/2019 Approved by: President Date Reviewed (no substantive changes): 08/12/2025
+
+Departmental Revenue Collection Policy
+
+Policy Statement
+
+This policy outlines procedures for University departments that collect any form of revenue in the proper collection, handling and depositing of cash collected and the responsibilities of the employees involved in the cash handling process. Cash is defined as currency, coin, check, cashier’s check, money order, travelers check, credit card, debit card or any other negotiable instrument.
+
+Purpose of Policy
+
+The purpose of this policy is to ensure the safety of University assets, compliance with state regulations, as well as the safety of the employees handling cash.
+
+Applicability
+
+This policy applies to all University departments that have established a legitimate business need, obtained prior approval to collect revenue, and received cash handling training.
+
+Policy Procedure
+
+General Information The material contained in this document supersedes any previous policies and procedures regarding collection of revenue and handling of cash, followed within the University and/or with departments. The University Controller reserves the right to make interpretations and exceptions to the policies contained in this document. Any department or employee found in violation of this policy will be notified in writing and may lose the privilege of handling cash.
+
+A department should never collect revenue or accept cash, as defined below, in a transaction except where a legitimate business need has been established and approval has been granted as outlined in this policy.
+
+If a University department has a legitimate business need to collect revenues, it is the responsibility of the budget unit manager to submit a Request for Approval form to the Controller’s Office for consideration. Specific rates/fees for services to be charged must go through the appropriate Vice President for approval and must accompany the request to collect revenues. If approved, all cash (as defined below) handling, transactions, and activities will occur at the Controller’s Office. If cash collection activity at the Controller’s Office is not possible (for reasons such as operating hours or location limitation), departments may be given permission to accept certain forms of cash transactions. However, departmental training and proper deposit procedures must be established as set forth in this policy prior to the acceptance of any cash. If permission is granted to a department, the budget unit manager is responsible for adherence to the departmental cash handling procedures as set forth in this policy.
+
+The Controller’s Office has sole discretion to determine the allowable forms of cash accepted by a department, the personnel allowed to accept transactions, and the method of transmittal for deposits and reporting.
+
+“Cash” Defined This document defines and outlines University policy with respect to the handling, receiving, transporting and depositing of cash. The term cash includes currency, coin, check, cashier’s check, money order, travelers check, credit card, debit card, or any other negotiable instrument.
+
+Bank Accounts
+
+All bank accounts for the University, whether deposit accounts or merchant accounts, must be set up by the Controller's Office. No employee or student may establish a University bank account or deposit University funds into an unauthorized bank account.
+
+Personnel
+
+All University personnel handling cash must be trained prior to handling cash and annually thereafter. Notify the Controller’s Office immediately of any changes in personnel handling deposits.
+
+Deposits
+
+Deposits must be prepared by an authorized employee. A second employee (supervisor or department head) must verify the deposit to be certain transactions are listed accurately and the funds are accounted for. Departments should assign an employee and a back-up employee to deliver the deposit.
+
+The department head, or a designated employee other than the two employees who prepared and verified the deposits, should review the department's monthly ledger to ensure deposits were receipted accurately. If for some reason the deposit does not agree with departmental reports, contact the Controller’s Office so that a correction can be made.
+
+All cash deposits must be deposited with the Controller’s Office in a timely manner. In order to ensure the safety of all University monies received on campus, deposits shall be made by the close of business on the following day of receiving the funds (excluding weekends and University holidays/closures). Never leave deposit bags or money unattended. Access to cash should be safeguarded from fire and theft by storing funds in a locked safe, cabinet or drawer.
+
+Every deposit (including online credit card transactions) must have a deposit transmittal submitted with each deposit. The deposit transmittal must be approved by the Controller’s Office. It should include:
+
+• Department’s name
+
+• Date of the transaction(s)
+
+• Printed names and initials or signatures of the employees preparing the deposit and verifying the deposit
+
+• Budget Unit number and appropriate account number
+
+• Brief description of transaction
+
+All deposits must be placed in a locked deposit bag. The Department and the Cashier's Office are required to each have a key for the bag. Once deposits are completed by the Department, they are placed in the locked bag. Locked bags may be obtained at the Controller’s Office. Your department will be charged for the bag(s) upon receipt. Each department should have a minimum of two deposit bags.
+
+Coins should be rolled when the below requirements are met.
+
+Quarters - $10.00
+
+Dimes - $5.00 Nickels - $2.00 Pennies - .50 cents
+
+Never send deposits through campus mail. Your deposit must be hand delivered to the Cashier Section of the Controller's Office and be logged in with the signature of the employee delivering the deposit. When the department picks up a processed deposit bag, they will sign the log book upon receiving the bag. All deposit bags are tracked in and out of the
+
+Controller's Office for security purposes. Receipts will be returned to Departments for all deposits made. Contact the Controller’s Office for a deposit receipt if one is not returned.
+
+University Police may be called to secure the area while deposits are being completed. Departments may contact University Police to pick-up and deliver deposits to the Controller's Office. However, it is the department’s responsibility to make timely deposits to the Controller’s Office.
+
+Credit Card Payments
+
+PCI DSS stands for Payment Card Industry Data Security Standard and is a worldwide security standard assembled by the Payment Card Industry Security Standards Council (PCI SSC). PCI DSS includes technical and operational requirements for security management, policies, procedures, network architecture, software design, and other critical protective measures to prevent credit card fraud, hacking, and various other security vulnerabilities and threats. The standards are designed to protect cardholder information of students, parents, donors, alumni, customers, and any individual or entity that utilizes a payment card to transact business with the University. The University is obligated to conduct business in accordance with the PCI DSS requirements as established and revised by the PCI Security Standards Council.
+
+All departments accepting credit/debit card payments must take all reasonable precautions to secure the card information until it is processed. If the Controller's Office processes the credit card payment for the department, copies of the information should never be stored in the Department’s files nor should any cardholder data be stored electronically on a computer, server, or email. Card information must be sent to the Controller's Office in a locked deposit bag as described in the Deposits section in this policy.
+
+If card reading equipment is necessary for a department, the procurement of this type of equipment must go through the Controller’s Office. Any department that utilizes card reader equipment to accept card payments should periodically inspect the devices for tampering or substitution. Any suspicious activity should be reported to the Controller’s Office immediately. Any paper or media containing cardholder data must be cross-shredded after the transaction has been completed and it is no longer needed for business or legal reasons.
+
+Checks
+
+The following information should be on all checks sent to the Controller's Office for deposit. Additionally, all checks deposited should include a check log with the check writer’s name, check number, and check amount attached to the deposit transmittal
+
+• Verify all checks are signed by the maker.
+
+• Verify that the written amount corresponds with the number.
+
+• Verify that all checks have a complete address (with street address – not PO Box number).
+
+• Verify that the check is properly dated, and do not accept post-dated checks.
+
+• Verify the identity of the person, typically check a valid photo ID, and also compare the signature on the check to the signature on the ID.
+
+• Verify checks are made payable to Southeastern La University.
+
+• Verify checks contain a means of identification if it is not already printed on the check. A. W # if the individual is an employee or student. Do not request or write the Social Security number on the check. B. Driver’s license or state issued identification number or date of birth if the individual is not an employee or student.
+
+C. If given by a third party, obtain name and W# of student or faculty/staff on whose behalf the check was given in addition to the driver’s license or state issued identification number or date of birth of the party issuing the check.
+
+• Initial and write the budget unit number of the department where the check was accepted in the upper right hand corner; this will help the Controller’s Office determine where the instrument was received.
+
+• If the check is mailed into the office, the word "mail-in" should be noted on the top of the check. The envelope or the enclosures for the mail-ins should be retained by the department for a minimum of 90 days in the event the information is needed in the future.
+
+The policy of the Tangipahoa Parish District Attorney's Office regarding checks returned for insufficient funds (NSF) states that the information above MUST be on any check accepted. Without this information, the check may not be collectible by the District Attorney’s office.
+
+Returned Check Procedure
+
+Any check returned by our depository bank as uncollected goes back to the department for collection from the maker. The budget unit and account number will be charged for the amount of the returned check. Checks returned by the bank for insufficient funds, stop payments, or closed accounts may result in service fees assessed by the University.
+
+Students or faculty/staff whose check is returned by the bank for any reason will be assessed a returned check fee. Students or faculty/staff with three returned checks will lose their check writing privileges at the University permanently.
+
+Checks returned for students or faculty/staff are collected by the Controller’s Office.
+
+See the current University catalogue for additional check policies.
+
+Petty Cash
+
+Departments that maintain a petty cash fund for the purpose of making change should keep adequate amounts of currency and coins to conduct the next day’s business. The Controller’s Office has a very limited amount of cash on hand and may not be able to fill a change order.
+
+Identification or Suspicion of Fraud or Missing Funds
+
+In the event funds are found to be missing, or there is a suspicion of theft or diversion of funds, including tampering or substitution of card reader devices, contact the following Departments immediately upon discovery or suspicion:
+
+• Controller
+
+• University Police
+
+• Dean or Division Head
+
+• Internal Auditor
+
+Audit
+
+All departments accepting cash are subject to audit at any time.
+
+[End of Policy]

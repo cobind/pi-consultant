@@ -23,7 +23,7 @@ except one added line in `.gitignore`.
 | `widgets.py` | 190 | Chat bubbles, source cards, scrolling chat view |
 | `dialogs.py` | 182 | The Add document dialog |
 | `theme.py` | 51 | Colors and styling |
-| `pi/pocket-lawyer.sh` | 15 | Launcher for the Pi |
+| `pi/pocket-lawyer.sh` | 15 | Launcher for the Pi 
 | `pi/PocketLawyer.desktop` | 8 | Pi desktop shortcut |
 | `pi/pocket-lawyer.svg` / `.ico` | | Icon (Pi / Windows) |
 | `README.md` | | How to run it |

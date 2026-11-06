@@ -155,7 +155,8 @@ class Engine:
         items = resp["models"] if isinstance(resp, dict) else resp.models
         names = []
         for m in items:
-            names.append(m["model"] if isinstance(m, dict) else m.model)
+            if "embedding" not in m["model"]:
+                names.append(m["model"] if isinstance(m, dict) else m.model)
         return names
 
     def stream(self, question, hits, history):

@@ -14,7 +14,6 @@ SCHEMA = """CREATE TABLE IF NOT EXISTS documents(
     id INTEGER PRIMARY KEY, name TEXT NOT NULL, fileNameStem TEXT NOT NULL,
     context TEXT NOT NULL, source TEXT NOT NULL, dateAdded TEXT, UNIQUE(name, context))"""
 
-
 class IngestError(Exception):
     pass
 
@@ -180,6 +179,7 @@ def _find_row(con, name, context):
 def add_document(cfg, file_or_url, name, source, context, progress=_noop):
     """Copy, extract, clean, chunk and index one document. Re-adding the same
     (name, context) replaces the old version instead of failing. Returns chunk count."""
+
     name, source, context = name.strip(), source.strip(), slug(context)
     if not name:
         raise IngestError("Give the document a name.")

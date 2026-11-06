@@ -1,0 +1,67 @@
+Responsible Administrator: CIO
+
+Responsible Office: Office of Technology Effective Date: 01/26/2021 Approved by: President Date of Revision: 11/19/2020 Date Reviewed (no substantive changes): 11/04/2025
+
+Computer or Electronic Media Device Sanitization Policy
+
+Policy Statement
+
+In compliance with the State of Louisiana Office of Technology Services (OTS) Data Sanitization Policy (IT POL 1-04) and Louisiana Property Assistance Agency, the University has adopted the following policy related to the removal of security sensitive data from computer storage devices to ensure data privacy and protection.
+
+Purpose of Policy
+
+This policy is to protect the intellectual property of Southeastern Louisiana University and the confidentiality of its employees and students, and clearly defines the procedures to be used in removing data prior to the release or disposal of equipment.
+
+Applicability
+
+This policy applies to faculty, staff, and contractors with access to Southeastern’s computing systems.
+
+Policy Procedure
+
+Definitions
+
+Definitions as stated in the OTS Data Sanitization Policy, IT POL 1-04, are as follows:
+
+Data Sanitization – the process of deliberately, permanently, and irreversibly removing or destroying data stored on a device or electronic media. A device or electronic media that has been sanitized has no residual data, even when data recovery is attempted with advanced forensic tools.
+
+Device – any equipment, hardware, or system owned, managed, or utilized by an agency or its agents to transmit, store, or process data. Examples include, but are not limited to: laptops, desktops, servers, routers, smart phones, PDAs, tablets, monitoring systems, printers, fax machines, digital audio recorders, digital cameras, or copiers.
+
+Electronic Media – any media owned, managed, or utilized by an agency or its agents with the capability to store, transmit, or receive data. Examples include, but are not limited to: CDs, DVDs, Hard Drives (HDD), Backup tapes, network attached storage, or internal system memory components (ROM and RAM).
+
+Policy
+
+Any computer or electronic media device subject to surplus, disposal, transfer, or permanently leaving the possession of Southeastern Louisiana University shall be sanitized using the approved methods and
+
+procedures as required by IT STD 1-17 Data Sanitization – Standards and Requirements as set forth by the State of Louisiana Office of Technology Services.
+
+Responsibilities
+
+Transferring a Computer/Electronic Media Device from One Department to Another
+
+• Department – It is the responsibility of the department to contact the IT Solutions Help Desk requesting that the unit be “wiped out” and made ready for transfer to another department. The department should also input a Property Control Asset Management Request through the ERP System for the transfer of the equipment.
+
+• IT Solutions Help Desk – It is the responsibility of the Help Desk to pick up the computer, reimage the computer which will totally wipe out all previous files, sanitize all other electronic media devices according to the OTS Data Sanitization Policy, and return the equipment to the originating department.
+
+Surplusing a Computer
+
+• Department – It is the responsibility of the department to contact the IT Solutions Help Desk requesting that the device be “sanitized”, and to complete a Property Control Surplus/Transfer Request form, which can be found on the Property Control website for the surplus of the equipment.
+
+• IT Solutions Help Desk – It is the responsibility of the IT Solutions Help Desk to pick up the computer, run the “shredder” program to totally wipe out all files on the computer, place a “Sanitized” label on the computer, input the information on a Certificate of Data Sanitization form, and deliver the unit to Property Control for surplus to the State.
+
+Surplusing Electronic Media Devices
+
+• Department – It is the responsibility of the department to complete a Property Control Surplus/Transfer Request form, which can be found on the Property Control website, for the device to be surplused. The department will then either deliver the item(s) directly to Property Control, or request pickup of the item(s).
+
+• IT Solutions Help Desk – Once notified by Property Control that a group of electronic media devices have been accumulated, it is the responsibility of IT Solutions to review all devices to determine which ones actually have memory or storage that need to be “sanitized.”
+
+• IT Solutions will then determine the appropriate way to sanitize devices that have memory or storage in order to be compliant with the Data Sanitization Policy of the State of Louisiana, Office of Technology Services—IT POL 1-04 and IT STD 1-17 Data Sanitization—Standards and Requirements. A “sanitized” sticker will be placed on the device, an entry will be made on a Certificate of Data Sanitization Form, and the item will be turned over to Property Control for surplus to the State.
+
+More detailed instructions/procedures can be found under the Property Control Department, Computer/Electronic Media-Transfer and Surplus Requirements, Reference No. PY-1501.
+
+Conclusion
+
+In order to stay current with the changing data security environment, this Policy is subject to revision. Before any such changes take effect, a request for changes will be made to the relevant information technology
+
+groups (Office of Technology, IT Solutions). The current version of the procedure will be posted in the Policies and Standards section of the Southeastern Louisiana University website.
+
+[End of Policy]

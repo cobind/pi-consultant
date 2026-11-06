@@ -1,0 +1,47 @@
+Responsible Administrator: CIO
+
+Responsible Office: Office of Technology Effective Date: Fall 2024 Approved by: President Date of Revision: 11/05/2024
+
+Network ID and Email Account Deprovisioning Policy
+
+Policy Statement
+
+This policy outlines the criteria for deprovisioning the network ID and email account issued to an individual by the University.
+
+Purpose of Policy
+
+A standardized deprovisioning policy for University issued network ID and email accounts allows for the adherence to federal, state and local, legal, regulatory and statutory requirements (e.g. HIPAA, FERPA, GLBA), as well as minimizes University risk for unauthorized access to University systems and data.
+
+Applicability
+
+The policy is applicable to all faculty, staff, students, alumni and guests who are issued a network ID and email account by the University. Full implementation of this policy will be completed by November 1, 2023.
+
+Policy Procedure
+
+• When a Southeastern affiliate no longer has an active role at the University, based on notification from source systems, their Southeastern network ID and email account will be deprovisioned as follows:
+
+Alumni (Graduated)
+
+o Southeastern network ID and email account will be deprovisioned 90 days after the separation date.
+
+Staff Employees
+
+o Southeastern network ID and email account will be deprovisioned as of separation date.
+
+Faculty Employees, Retirees
+
+o Southeastern network ID and email account will be deprovisioned as of separation date. o LMS o Upon request and approval by the department head, dean and provost, the Office of Technology will work with the separated faculty member, within reason, to provide course materials and data, as appropriate, from previous courses. o Requested data must not contain non-public information.
+
+Students (Inactive Status)
+
+o A student becomes inactive when not enrolled in at least one course for a period of twelve months (fall, spring, summer) semesters. o Southeastern network ID and email account will remain active during the twelve-month period of nonenrollment. o After the twelve-month period of non-enrollment, the student’s network and email account will be deprovisioned. Account access will be restored upon re-enrollment to the university.
+
+Guests
+
+o Deactivated and deleted after the account is no longer needed
+
+• All faculty, staff, and student network and email accounts will be preserved.
+
+• The University reserves the right to revoke any account (faculty, staff, student or guest) at any time.
+
+[End of Policy]
